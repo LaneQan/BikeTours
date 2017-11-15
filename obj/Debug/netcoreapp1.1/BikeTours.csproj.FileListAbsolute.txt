@@ -7,3 +7,12 @@ c:\Users\NoteBook\Desktop\BikeTours\obj\Debug\netcoreapp1.1\BikeTours.csproj.Cor
 c:\Users\NoteBook\Desktop\BikeTours\obj\Debug\netcoreapp1.1\BikeTours.AssemblyInfo.cs
 c:\Users\NoteBook\Desktop\BikeTours\obj\Debug\netcoreapp1.1\BikeTours.dll
 c:\Users\NoteBook\Desktop\BikeTours\obj\Debug\netcoreapp1.1\BikeTours.pdb
+c:\Users\LaneQan\Desktop\BikeTours\BikeTours\bin\Debug\netcoreapp1.1\BikeTours.deps.json
+c:\Users\LaneQan\Desktop\BikeTours\BikeTours\bin\Debug\netcoreapp1.1\BikeTours.runtimeconfig.json
+c:\Users\LaneQan\Desktop\BikeTours\BikeTours\bin\Debug\netcoreapp1.1\BikeTours.runtimeconfig.dev.json
+c:\Users\LaneQan\Desktop\BikeTours\BikeTours\bin\Debug\netcoreapp1.1\BikeTours.dll
+c:\Users\LaneQan\Desktop\BikeTours\BikeTours\bin\Debug\netcoreapp1.1\BikeTours.pdb
+c:\Users\LaneQan\Desktop\BikeTours\BikeTours\obj\Debug\netcoreapp1.1\BikeTours.csproj.CoreCompileInputs.cache
+c:\Users\LaneQan\Desktop\BikeTours\BikeTours\obj\Debug\netcoreapp1.1\BikeTours.AssemblyInfo.cs
+c:\Users\LaneQan\Desktop\BikeTours\BikeTours\obj\Debug\netcoreapp1.1\BikeTours.dll
+c:\Users\LaneQan\Desktop\BikeTours\BikeTours\obj\Debug\netcoreapp1.1\BikeTours.pdb
