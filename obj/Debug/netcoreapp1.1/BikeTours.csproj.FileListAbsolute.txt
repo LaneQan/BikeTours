@@ -1,0 +1,9 @@
+c:\Users\NoteBook\Desktop\BikeTours\bin\Debug\netcoreapp1.1\BikeTours.deps.json
+c:\Users\NoteBook\Desktop\BikeTours\bin\Debug\netcoreapp1.1\BikeTours.runtimeconfig.json
+c:\Users\NoteBook\Desktop\BikeTours\bin\Debug\netcoreapp1.1\BikeTours.runtimeconfig.dev.json
+c:\Users\NoteBook\Desktop\BikeTours\bin\Debug\netcoreapp1.1\BikeTours.dll
+c:\Users\NoteBook\Desktop\BikeTours\bin\Debug\netcoreapp1.1\BikeTours.pdb
+c:\Users\NoteBook\Desktop\BikeTours\obj\Debug\netcoreapp1.1\BikeTours.csproj.CoreCompileInputs.cache
+c:\Users\NoteBook\Desktop\BikeTours\obj\Debug\netcoreapp1.1\BikeTours.AssemblyInfo.cs
+c:\Users\NoteBook\Desktop\BikeTours\obj\Debug\netcoreapp1.1\BikeTours.dll
+c:\Users\NoteBook\Desktop\BikeTours\obj\Debug\netcoreapp1.1\BikeTours.pdb

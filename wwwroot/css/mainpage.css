@@ -1,0 +1,57 @@
+﻿
+
+.main {
+    display: flex;
+    flex-direction: row;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 70px;
+    padding-bottom: 27px;
+    width: 100%;
+}
+
+.filters {
+    position: fixed;
+    width: 17%;
+    height: 85%;
+    margin-right: 15px;
+    margin-left: 10px;
+    border: 2px double green;
+}
+
+.main-content {
+    margin-left: 20%;
+    padding: 7px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px,1fr));
+    grid-gap: 5px;
+    border: 2px double red;
+    width: 79%;
+}
+
+.view-statistic {
+    margin-right: 10px;
+    border-right: 1px solid #cccccc;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+.tour-statistic {
+    text-align: right;
+}
+.card-body {
+    padding: 1.05rem;
+}
+@media screen and (max-device-width: 768px) {
+    .main-content {
+        width: 100%;
+        margin: 0 10px;
+    }
+    .filters {
+        display: none;
+    }
+    nav{
+        padding: 0;
+    }
+}
+
+

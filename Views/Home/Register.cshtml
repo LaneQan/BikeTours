@@ -1,0 +1,82 @@
+﻿@section hidenav {}
+@{
+    ViewData["Title"] = "Регистрация";
+}
+
+<head> 
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- Website CSS style -->
+		<link rel="stylesheet" type="text/css" href="~/css/register.css">
+
+		
+		<!-- Google Fonts -->
+		<link href='https://fonts.googleapis.com/css?family=Passion+One' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+
+		<title>Admin</title>
+	</head>
+<body>
+<div class="container">
+			<div class="row main">
+				<div class="main-login main-center">
+					<form class="form-horizontal" method="post" action="/Home/Register">
+						
+						<div class="form-group">
+							<label for="name" class="cols-sm-2 control-label">Ваше имя</label>
+							<div class="cols-sm-10">
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-user fa" aria-hidden="true"></i></span>
+									<input type="text" class="form-control" name="name" id="name"  placeholder="Введите ваше имя"/>
+								</div>
+							</div>
+						</div>
+
+						<div class="form-group">
+							<label for="mail" class="cols-sm-2 control-label">Ваш e-mail</label>
+							<div class="cols-sm-10">
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-envelope fa" aria-hidden="true"></i></span>
+									<input type="text" class="form-control" name="mail" id="mail"  placeholder="Введите ваш e-mail"/>
+								</div>
+							</div>
+						</div>
+
+						<div class="form-group">
+							<label for="login" class="cols-sm-2 control-label">Логин</label>
+							<div class="cols-sm-10">
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
+									<input type="text" class="form-control" name="login" id="login"  placeholder="Введите ваш логин"/>
+								</div>
+							</div>
+						</div>
+
+						<div class="form-group">
+							<label for="password" class="cols-sm-2 control-label">Пароль</label>
+							<div class="cols-sm-10">
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
+									<input type="password" class="form-control" name="password" id="password"  placeholder="Введите ваш пароль"/>
+								</div>
+							</div>
+						</div>
+
+						<div class="form-group">
+							<label for="confirm" class="cols-sm-2 control-label">Подтверждение пароля</label>
+							<div class="cols-sm-10">
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-lock fa-lg" aria-hidden="true"></i></span>
+									<input type="password" class="form-control" name="confirm" id="confirm"  placeholder="Введите ваш пароль ещё раз"/>
+								</div>
+							</div>
+						</div>
+
+						<div class="form-group ">
+							<button type="submit"  class="btn btn-primary btn-lg btn-block login-button">Регистрация</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+</body>
