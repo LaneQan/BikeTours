@@ -38,9 +38,18 @@
 .tour-statistic {
     text-align: right;
 }
+
 .card-body {
     padding: 1.05rem;
 }
+
+.add-tour {
+    font-size: 12em;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 40%;
+}
+
 @media screen and (max-device-width: 768px) {
     .main-content {
         width: 100%;
@@ -51,6 +60,9 @@
     }
     nav{
         padding: 0;
+    }
+    .add-tour {
+        padding-top: 1%;
     }
 }
 
